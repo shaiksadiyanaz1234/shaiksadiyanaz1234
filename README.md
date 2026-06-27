@@ -1,16 +1,64 @@
-## Hi there 👋
+# Hi, I'm Shaik Sadiya 👋
 
-<!--
-**shaiksadiyanaz1234/shaiksadiyanaz1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Data Analyst | BI Analyst
 
-Here are some ideas to get you started:
+Analytical and detail-oriented Data Analyst with hands-on experience in data cleaning, transformation, visualization, and generating business insights using data.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- Power BI
+- SQL
+- Excel
+- Power Query
+- DAX
+- Data Cleaning
+- Data Visualization
+- Business Intelligence
+- Dashboard Development
+
+## Tools
+
+- Microsoft Power BI
+- Microsoft Excel
+- SQL
+- Power Query
+- AI Tools (ChatGPT, Gemini) for research, documentation, problem-solving, and improving analytics workflow
+
+## Featured Projects
+
+### 📊 Customer Churn Intelligence Dashboard
+
+An end-to-end analytics project focused on identifying customer churn patterns and generating actionable business insights.
+
+**Highlights:**
+- Customer churn analysis
+- Customer retention insights
+- KPI tracking
+- Interactive Power BI dashboard
+- Business-focused recommendations
+
+Repository:
+(Add your project repository link here)
+
+## Currently Building
+
+- 📈 Sales Performance Dashboard
+- 👥 HR Analytics Dashboard
+- 💰 Financial Analytics Dashboard
+
+## Career Focus
+
+Seeking opportunities as:
+
+- Data Analyst
+- Junior Data Analyst
+- BI Analyst
+- Reporting Analyst
+
+## Connect With Me
+
+LinkedIn:
+(Add your LinkedIn link)
+
+GitHub:
+(Add your GitHub profile link)
