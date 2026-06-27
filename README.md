@@ -6,15 +6,36 @@ Analytical and detail-oriented Data Analyst with hands-on experience in data cle
 
 ## Skills
 
+### Data Analysis
+- Data Cleaning
+- Data Transformation
+- Business Analysis
+- Data Visualization
+
+### Excel
+- Advanced Excel
+- XLOOKUP / VLOOKUP
+- INDEX MATCH
+- Pivot Tables
+- Pivot Charts
+- SUMIFS / COUNTIFS
+- Excel Dashboards
+
+### BI & Analytics
 - Power BI
-- SQL
-- Excel
 - Power Query
 - DAX
-- Data Cleaning
-- Data Visualization
-- Business Intelligence
+- KPI Development
 - Dashboard Development
+### Database
+- SQL
+- Data Extraction
+- Data Analysis Queries
+
+### AI Tools
+- ChatGPT
+- Gemini
+- AI-assisted research, documentation, and workflow improvement
 
 ## Tools
 
@@ -61,4 +82,4 @@ LinkedIn:
 (Add your LinkedIn link)
 
 GitHub:
-(Add your GitHub profile link)
+(https://github.com/shaiksadiyanaz1234)
